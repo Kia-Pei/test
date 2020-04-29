@@ -4,4 +4,4 @@
 
 * *trainer.py* :
 * *dataset.py* :
-* *3Dmodel.py* :
+* *net3d.py* : copyfrom 3dahnet
